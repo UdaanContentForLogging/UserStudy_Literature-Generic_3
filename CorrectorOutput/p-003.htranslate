@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+  </title>
+  <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="tesseract 5.0.0-alpha-20201231-256-g73a32" name="ocr-system"/>
+  <meta content="ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf" name="ocr-capabilities"/>
+ </head>
+ <body>
+  <div class="ocr_page" id="page_1" title='image "/home/ayush/udaan-deploy-flask/udaan-deploy-pipeline/output_books/NGMA_5_1/Images/p-003.jpg"; bbox 0 0 2481 3508; ppageno 0'>
+   <p class="ocr_par" id="par_1_1" lang="eng" title="bbox 132 151 387 196">
+    <span class="ocr_sent" title="bbox 132 151 387 196;">
+     S.No:146
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_2" lang="eng" title="bbox 130 269 1460 327">
+    <span class="ocr_sent" title="bbox 130 269 1460 315;">
+     Title (indexed field): A Sketch from Album No 90
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_3" lang="eng" title="bbox 132 387 1109 445">
+    <span class="ocr_sent" title="bbox 132 387 423 445;">
+     dc.subject:
+    </span>
+    <span class="ocr_sent" title="bbox 451 387 1109 445;">
+     Drawing Artwork Sketch
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_4" lang="eng" title="bbox 132 505 1657 563">
+    <span class="ocr_sent" title="bbox 132 505 478 563;">
+     dc.publisher:
+    </span>
+    <span class="ocr_sent" title="bbox 506 505 1657 551;">
+     National Gallery of Modern Art, New Delhi
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_5" lang="eng" title="bbox 130 623 2467 2571">
+    <span class="ocr_sent" title="bbox 132 623 527 681;">
+     dc.description:
+    </span>
+    <span class="ocr_sent" title="bbox 133 623 2450 799;">
+     In this pen and ink sketch, Nandalal has depicted a cow grazing ona patch of grass as it is followed by three birds.
+    </span>
+    <span class="ocr_sent" title="bbox 133 741 2360 905;">
+     He has employed soft, fluid lines to render the scene, adding life and vitality to it.
+    </span>
+    <span class="ocr_sent" title="bbox 131 859 2423 1141;">
+     Nandalal had a strong affinity for sketching, his subjects being the surrounding environs, people in their everyday life or anything that he found fascinating.
+    </span>
+    <span class="ocr_sent" title="bbox 133 1095 2385 1259;">
+     His sketches provide a moving record of the modest life and natural environment in which he lived.
+    </span>
+    <span class="ocr_sent" title="bbox 130 1213 2467 1496;">
+     This album of 24 works from the late years of his career, largely records line drawings of animals and birds, witha few detailed renditions.
+    </span>
+    <span class="ocr_sent" title="bbox 131 1450 2250 1626;">
+     Some of these subjects, he has executed repeatedly, studying them in varied postures.
+    </span>
+    <span class="ocr_sent" title="bbox 130 1568 2448 1862;">
+     About the depiction of animals, in his book,’ Vision and Creation’, Nandalal elaborates, "Each creature has a basic spinal rhythm following its characteristic nature...A
+    </span>
+    <span class="ocr_sent" title="bbox 132 1804 2298 2086;">
+     certain kind of movement or rhythm finds expression in the body of an animal following each emotional impulse, and this becomes for us its characteristic gesture...
+    </span>
+    <span class="ocr_sent" title="bbox 131 2040 2367 2204;">
+     These body rhythms are based on the structure of the backbone, and this is seen most clearly from the side.
+    </span>
+    <span class="ocr_sent" title="bbox 132 2158 2369 2441;">
+     The body's mass, structure and volume should be studied in relation with this life rhythm; it controls them and, in turn, is controlled by them."
+    </span>
+    <span class="ocr_sent" title="bbox 132 2395 2368 2559;">
+     This sketch was signed 'Nanda' and dated '22.1.56'
+    </span>
+    <span class="ocr_sent" title="bbox 679 2513 2052 2558;">
+     in Bengali at the bottom-right corner of the sketch.
+    </span>
+   </p>
+   <p class="ocr_par" id="par_1_6" lang="eng" title="bbox 132 2631 588 2689">
+    <span class="ocr_sent" title="bbox 132 2631 343 2689;">
+     dc.type:
+    </span>
+    <span class="ocr_sent" title="bbox 371 2631 588 2689;">
+     Painting
+    </span>
+   </p>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,27 @@
+S.No:144
+
+Title (indexed field): A Sketch from Album No 90
+
+dc.subject: Drawing Artwork Sketch
+
+dc.publisher: National Gallery of Modern Art, New Delhi
+
+dc.description: In this first sketch of a series of four sketches of ducks in the album,
+Nandalal has depicted a duck from various angles and studied its movements in
+simple line drawings. Nandalal had a strong affinity for sketching, his subjects being
+the surrounding environs, people in their everyday life or anything that he found
+fascinating. His sketches provide a moving record of the modest life and natural
+environment in which he lived. This album of 24 works from the late years of his
+career, largely records line drawings of animals and birds, with a few detailed
+renditions. Some of these subjects, he has executed repeatedly, studying them in
+varied postures. About the depiction of animals, in his book,' Vision and Creation’,
+Nandalal elaborates, "Each creature has a basic spinal rhythm following its
+characteristic nature...A certain kind of movement or rhythm finds expression in the
+body of an animal following each emotional impulse, and this becomes for us its
+characteristic gesture... These body rhythms are based on the structure of the
+backbone, and this is seen most clearly from the side. The body's mass, structure
+and volume should be studied in relation with this life rhythm; it controls them and, in
+turn, is controlled by them."
+
+dc.type: Painting
+
